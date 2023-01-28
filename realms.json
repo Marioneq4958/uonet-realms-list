@@ -2,6 +2,8 @@
   {
     "id": 0,
     "name": "Standardowa",
+    "town": null,
+    "fullName": "Standardowa",
     "scheme": "https",
     "host": "vulcan.net.pl",
     "mobileApis": [
@@ -1608,7 +1610,9 @@
   },
   {
     "id": 1,
-    "name": "Opole - Opolska eSzkoła",
+    "name": "Opolska eSzkoła",
+    "town": "Opole",
+    "fullName": "Opole - Opolska eSzkoła",
     "scheme": "https",
     "host": "eszkola.opolskie.pl",
     "mobileApis": [
@@ -1673,7 +1677,9 @@
   },
   {
     "id": 2,
-    "name": "Gdańsk - Gdańska Platforma Edukacyjna",
+    "name": "Gdańska Platforma Edukacyjna",
+    "town": "Gdańsk",
+    "fullName": "Gdańsk - Gdańska Platforma Edukacyjna",
     "scheme": "https",
     "host": "edu.gdansk.pl",
     "mobileApis": [
@@ -1696,7 +1702,9 @@
   },
   {
     "id": 3,
-    "name": "Rzeszów - ResMan2",
+    "name": "ResMan2",
+    "town": "Rzeszów",
+    "fullName": "Rzeszów - ResMan2",
     "scheme": "https",
     "host": "vulcan.net.pl",
     "mobileApis": [
@@ -1719,7 +1727,9 @@
   },
   {
     "id": 4,
-    "name": "Koszalin - Portal Edukacyjny",
+    "name": "Portal Edukacyjny",
+    "town": "Koszalin",
+    "fullName": "Koszalin - Portal Edukacyjny",
     "scheme": "https",
     "host": "eduportal.koszalin.pl",
     "mobileApis": [
@@ -1742,7 +1752,9 @@
   },
   {
     "id": 5,
-    "name": "Tarnów - EduNet",
+    "name": "EduNet",
+    "town": "Tarnów",
+    "fullName": "Tarnów - EduNet",
     "scheme": "https",
     "host": "umt.tarnow.pl",
     "mobileApis": [
@@ -1765,7 +1777,9 @@
   },
   {
     "id": 6,
-    "name": "Lublin - Portal Oświatowy",
+    "name": "Portal Oświatowy",
+    "town": "Lublin",
+    "fullName": "Lublin - Portal Oświatowy",
     "scheme": "https",
     "host": "edu.lublin.eu",
     "mobileApis": [
@@ -1793,7 +1807,9 @@
   },
   {
     "id": 7,
-    "name": "Sieradz - Portal Oświatowy",
+    "name": "Portal Oświatowy",
+    "town": "Sieradz",
+    "fullName": "Sieradz - Portal Oświatowy",
     "scheme": "https",
     "host": "vulcan.net.pl",
     "mobileApis": [
@@ -1816,7 +1832,9 @@
   },
   {
     "id": 8,
-    "name": "Rawa Mazowiecka - Platforma vEdukacja",
+    "name": "Platforma vEdukacja",
+    "town": "Rawa Mazowiecka",
+    "fullName": "Rawa Mazowiecka - Platforma vEdukacja",
     "scheme": "https",
     "host": "vulcan.net.pl",
     "mobileApis": [
@@ -1839,7 +1857,9 @@
   },
   {
     "id": 9,
-    "name": "Łask - Platforma vEdukacja",
+    "name": "Platforma vEdukacja",
+    "town": "Łask",
+    "fullName": "Łask - Platforma vEdukacja",
     "scheme": "https",
     "host": "vulcan.net.pl",
     "mobileApis": [
@@ -1862,7 +1882,9 @@
   },
   {
     "id": 10,
-    "name": "Powiat kętrzyński - Platforma e-Usług",
+    "name": "Platforma e-Usług",
+    "town": "Powiat kętrzyński",
+    "fullName": "Powiat kętrzyński - Platforma e-Usług",
     "scheme": "https",
     "host": "vulcan.net.pl",
     "mobileApis": [
@@ -1885,7 +1907,9 @@
   },
   {
     "id": 11,
-    "name": "Powiat łaski - Platforma edukacyjna",
+    "name": "Platforma Edukacyjna",
+    "town": "Powiat łaski",
+    "fullName": "Powiat łaski - Platforma Edukacyjna",
     "scheme": "https",
     "host": "vulcan.net.pl",
     "mobileApis": [
@@ -1908,7 +1932,9 @@
   },
   {
     "id": 12,
-    "name": "Zduńska Wola - e-urząd",
+    "name": "e-Urząd",
+    "town": "Zduńska Wola",
+    "fullName": "Zduńska Wola - e-Urząd",
     "scheme": "https",
     "host": "vulcan.net.pl",
     "mobileApis": [
@@ -1931,7 +1957,9 @@
   },
   {
     "id": 13,
-    "name": "Gmina Ozorków - Platforma edukacyjna",
+    "name": "Platforma Edukacyjna",
+    "town": "Gmina Ozorków",
+    "fullName": "Gmina Ozorków - Platforma Edukacyjna",
     "scheme": "https",
     "host": "vulcan.net.pl",
     "mobileApis": [
@@ -1954,7 +1982,9 @@
   },
   {
     "id": 14,
-    "name": "Gmina Ulan-Majorat - Platforma óswiatowa",
+    "name": "Platforma Oświatowa",
+    "town": "Gmina Ulan-Majorat",
+    "fullName": "Gmina Ulan-Majorat - Platforma Oświatowa",
     "scheme": "https",
     "host": "vulcan.net.pl",
     "mobileApis": [
@@ -1977,7 +2007,9 @@
   },
   {
     "id": 15,
-    "name": "Powiat krasnostawski - Platforma oświatowa",
+    "name": "Platforma Oświatowa",
+    "town": "Powiat krasnostawski",
+    "fullName": "Powiat krasnostawski - Platforma Oświatowa",
     "scheme": "https",
     "host": "vulcan.net.pl",
     "mobileApis": [
@@ -2000,7 +2032,9 @@
   },
   {
     "id": 16,
-    "name": "Gmina Łopiennik Górny - Platforma oświatowa",
+    "name": "Platforma Oświatowa",
+    "town": "Gmina Łopiennik Górny",
+    "fullName": "Gmina Łopiennik Górny - Platforma Oświatowa",
     "scheme": "https",
     "host": "vulcan.net.pl",
     "mobileApis": [
@@ -2023,7 +2057,9 @@
   },
   {
     "id": 17,
-    "name": "Gmina Miasto Tomaszów Mazowiecki - Zintegrowany system zarządzania oświatą",
+    "name": "Zintegrowany System Zarządzania Oświatą",
+    "town": "Gmina Miasto Tomaszów Mazowiecki",
+    "fullName": "Gmina Miasto Tomaszów Mazowiecki - Zintegrowany System Zarządzania Oświatą",
     "scheme": "https",
     "host": "vulcan.net.pl",
     "mobileApis": [
