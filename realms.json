@@ -2077,5 +2077,28 @@
       "usernameType": 1,
       "adfsId": "ADFSLight"
     }
+  },
+  {
+    "id": 18,
+    "name": "e-Skarżysko",
+    "town": "Skarżysko-Kamienna",
+    "fullName": "Skarżysko-Kamienna - e-Skarżysko",
+    "scheme": "https",
+    "host": "vulcan.net.pl",
+    "mobileApis": [
+      {
+        "tokenPrefix": "3S1",
+        "domain": "lekcjaplus",
+        "url": "https://lekcjaplus.vulcan.net.pl"
+      }
+    ],
+    "symbols": {"skarzyskokamienna": "Skarżysko-Kamienna"},
+    "login": {
+      "url": "https://uonetplus.vulcan.net.pl/skarzyskokamienna/LoginEndpoint.aspx",
+      "domain": "adfslight",
+      "defaultSymbol": "skarzyskokamienna",
+      "usernameType": 1,
+      "adfsId": "ADFSLight"
+    }
   }
 ]
